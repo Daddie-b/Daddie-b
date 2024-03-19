@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Expo**
 
-- 👯 I’m looking to collaborate on **AI prompt Engineer**
+- 👯 I’m looking to collaborate on **ICP CHALLENGE**
 
 - 🤝 I’m looking for help with **Blockchain**
 
